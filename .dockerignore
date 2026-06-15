@@ -1,0 +1,7 @@
+.git
+node_modules
+extracted_photos
+extract_photos.py
+inject_photos.py
+incident_photos.json
+*.md
